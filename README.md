@@ -33,27 +33,15 @@ Welcome to my GitHub Account
     <img height=100px src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg">&nbsp;
     <img height=100px src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">&nbsp;
     <img height=60px src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">&nbsp;
+    <img height=60px src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg">&nbsp;
 
-    
+ 
 </p>
 </p>
 
 ### 👀 Active Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=supulkalhara&repo=STO-frontend&theme=radical "Safe-TakeOff Frontend")](https://github.com/supulkalhara/STO-frontend.git)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=supulkalhara&repo=STO-server&theme=radical "Safe-TakeOff Backend")](https://github.com/supulkalhara/STO-server.git)
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/supul-pushpakumara-323a38151
