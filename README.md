@@ -39,8 +39,5 @@ Welcome to my GitHub Account
 </p>
 </p>
 
-### 👀 Active Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=supulkalhara&repo=fyp-doc-ai/mobile-app&theme=radical "SRI-DOC")]([https://github.com/supulkalhara/STO-frontend.git](https://github.com/orgs/fyp-doc-ai/repositories))
-
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/supul-pushpakumara-323a38151
