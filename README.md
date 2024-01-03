@@ -13,12 +13,14 @@ Welcome to my GitHub Account
 
 <h3 align="center">
     ⚡ Technologies & Tools
+
+ <a href="https://github.com/supulkalhara/supulkalhara" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>     
 </h3>
 
 <p>
-<a href="https://github.com/supulkalhara/supulkalhara" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>        
+   
 <!--  <a href="https://github.com/supulkalhara/supulkalhara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supulkalhara&show_icons=true&line_height=27&count_private=true&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
 </a> -->
