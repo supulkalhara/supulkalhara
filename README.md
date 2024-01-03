@@ -19,7 +19,7 @@ Welcome to my GitHub Account
 <a href="https://github.com/supulkalhara/supulkalhara">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>        <a href="https://github.com/supulkalhara/supulkalhara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=supulkalhara&show_icons=true&line_height=27&count_private=true&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
+<!--   <img align="center" src="https://github-readme-stats.vercel.app/api?username=supulkalhara&show_icons=true&line_height=27&count_private=true&&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" /> -->
 </a>
 <p align="center">
     <img height=60px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">&nbsp;
