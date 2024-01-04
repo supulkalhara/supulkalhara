@@ -17,7 +17,9 @@ I am deeply passionate about artificial intelligence and its applications. As a 
 <h3 align="center">
  <a href="https://github.com/supulkalhara/supulkalhara" align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>     
+</a>  
+
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=supulkalhara&theme=dark&hide_border=false)<br/>
 </h3>
 
 ## 🌐 Socials:
