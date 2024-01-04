@@ -15,12 +15,10 @@ I am deeply passionate about artificial intelligence and its applications. As a 
 
 
 <h3 align="center">
- <a href="https://github.com/supulkalhara/supulkalhara" align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>  
- <br/>
- ![](https://github-readme-streak-stats.herokuapp.com/?user=supulkalhara&theme=dark&hide_border=false)<br/>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=supulkalhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=supulkalhara&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </h3>
 
 ## 🌐 Socials:
