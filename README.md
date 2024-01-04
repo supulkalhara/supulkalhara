@@ -13,13 +13,10 @@ I am deeply passionate about artificial intelligence and its applications. As a 
  ### Profile Views :<br>
   <img src="https://profile-counter.glitch.me/supulkalhara/count.svg" />
 
-
-<h3 align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=supulkalhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=supulkalhara&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=supulkalhara&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</h3>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/supul.kalhara.90) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/supl.a/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/supul-pushpakumara-323a38151/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SupulKalhara) 
